@@ -81,7 +81,7 @@ label.menu-toggle {
     margin-right: 35px;
 }
 
-.menu-left a:hover {
+.menu-left a:hover, .menu-left a:active, .menu-left a:focus  {
     font-weight: bold;
     color: #023a5c;
 }
