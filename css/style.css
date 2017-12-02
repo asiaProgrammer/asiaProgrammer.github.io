@@ -121,7 +121,7 @@ input[type="text"].form-control-open {
 }
 
 input[type="text"].form-control-close {
-    height: 32px;
+    height: 30px;
     width: 0;
     border: none;
     background-color: #023a5c;
@@ -144,7 +144,7 @@ ul.menu {
 
 #search {
     width: 34px;
-    height: 31px;
+    height: 34px;
     position: absolute;
     right: 22px;
     top: 44px;
